@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:design="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom"
+    >
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/bottomBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/heightbottombar"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|end"
+        design:menu="@menu/menu_navegation"
+        />
+
+
+</LinearLayout>

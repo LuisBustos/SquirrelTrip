@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#8BC34A</color>
+    <color name="colorAccent">#FFC400</color>
+
+    <!-- MainActivity Color -->
+    <color name="Tittle">#ffffff</color>
+    <color name="BackgroundMain">#689F38</color>
+    <color name="TextMain">#ffffff</color>
+    <color name="colorButton">#8BC34A</color>
+    <color name="editTextColor">#FFFFFF</color>
+
+</resources>

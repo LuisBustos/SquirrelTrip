@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">SquirrelTrip</string>
+
+    <!-- Strings related to login (MainActivity) -->
+    <string name="Tittle">Squirrel Trip</string>
+    <string name="separador">--------------------------------------------------------</string>
+    <string name="sign_up">Register</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="dont_Have_Account">Don\'t have account?,</string>
+    <string name="create_Here">Create Here</string>
+
+
+    <!-- Strings Profile-->
+    <string name="app_Profile">Welcome to Squirrel Trip</string>
+    <!-- Strings Suscribe-->
+    <string name="app_Suscribe">Suscribe</string>
+    <string name="sign_in">Sign Up</string>
+    <!-- Strings BeginActivity-->
+    <string name="app_BeginActivity">Begin Activity</string>
+    <string name="Facebook">Facebook</string>
+    <string name="TWitter">Twitter</string>
+    <string name="suscribe_Name">Name</string>
+    <string name="suscribe_Second_Name">Second Name</string>
+    <string name="suscribe_date">Date</string>
+    <string name="name_Default">Luis Enrique Bustos Ramírez</string>
+    <string name="description_Default">Amante de la musica, los viajes, las artes marciales y el mejor conocedor de los bares de xochimilco</string>
+    <string name="suscribe_password">Password</string>
+    <string name="suscribe_repeat_password">Confirm Password</string>
+    <string name="toolbar_tittle_suscribe">Create Account</string>
+    <string name="home">home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menuProfile">Profile</string>
+    <string name="menuSetting">Settings</string>
+    <string name="menuSearch">Search</string>
+    <string name="username_detail">Luis Enrique</string>
+    <string name="secondword_detail">Like</string>
+    <string name="tittleimage_detail">\"Chiapasionate\"</string>
+    <string name="text_imagedetail">No te rindas, aun estas a tiempo de alcanzar y comenzar de nuevo, aceptar tus sombras, enterrar tus miedos, liberar el lastre, retomar el vuelo.  No te rindas que la vida es eso, continuar el viaje, perseguir tus sueños, destrabar el tiempo, correr los escombros y destapar el cielo. No te rindas, por favor no cedas, aunque el frio queme, aunque el miedo muerda, aunque el sol se esconda y se calle el viento. Aún hay fuego en tu alma, aún hay vida en tus sueños, porque la vida es tuya y tuyo también el deseo, porque lo has querido y porque te quiero. Porque existe el vino y el amor, es cierto, porque no hay heridas que no cure el tiempo, abrir las puertas quitar los cerrojos, abandonar las murallas que te protegieron. Vivir la vida y aceptar el reto, recuperar la risa, ensayar el canto, bajar la guardia y extender las manos, desplegar las alas e intentar de nuevo, celebrar la vida y retomar los cielos. No te rindas por favor no cedas, aunque el frio queme, aunque el miedo muerda, aunque el sol se ponga y se calle el viento. Aún hay fuego en tu alma, aún hay vida en tus sueños, porque cada día es un comienzo, porque esta es la hora y el mejor momento, porque no estás sola, porque yo te quiero.</string>
+    <string name="transitionName_Picture">transitionnamepicture</string>
+
+</resources>

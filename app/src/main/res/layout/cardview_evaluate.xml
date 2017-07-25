@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/sizeCardView"
+    cardview:cardCornerRadius="@dimen/cornerradiusCardView"
+    android:layout_marginBottom="@dimen/activity_vertical_margin"
+    >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/pictureCard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/chiapas"
+            android:scaleType="centerCrop"
+            android:transitionName="@string/transitionName_Picture"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_vertical_margin">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_gravity="top"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:id="@+id/imageButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:button="@drawable/checkbox_selector"
+                    />
+
+                <TextView
+                    android:id="@+id/textToCheckBox"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Prueba(No deberia de salir)"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/editTextSize" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#55576753"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textToRatingBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Chiapasionate"
+                    android:textColor="@android:color/holo_blue_bright"
+                    android:textSize="@dimen/editTextSize"
+                    android:layout_marginRight="@dimen/text_dimen_ratingbar"
+                    />
+
+                <TextView
+                    android:id="@+id/likeRatingBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Chiapasionate"
+                    android:textColor="@android:color/holo_blue_bright"
+                    android:textSize="@dimen/editTextSize" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </FrameLayout>
+
+
+</android.support.v7.widget.CardView>

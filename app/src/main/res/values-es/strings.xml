@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SquirrelTrip</string>
+
+    <!-- Strings related to login (MainActivity) -->
+    <string name="Tittle">Squirrel Trip</string>
+    <string name="separador">--------------------------------------------------------</string>
+    <string name="sign_in">Iniciar Sesion</string>
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
+
+    <string name="action_sign_in_short">Inicia Sesion</string>
+    <string name="error_invalid_email">Este correo no es valido</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Ni idea de que va aquí."
+    </string>
+    <string name="title_activity_profile">Perfil</string>
+    <string name="action_settings">Configuraciones</string>
+
+    <!-- Strings Profile-->
+    <string name="app_Profile">Bienvenido a Squirrel Trip</string>
+    <!-- Strings Suscribe-->
+    <string name="app_Suscribe">Suscribete</string>
+    <string name="sign_up">Registrate</string>
+    <!-- Strings BeginActivity-->
+    <string name="app_BeginActivity">Actividad Principal</string>
+    <string name="dont_Have_Account">No tienes cuenta?,</string>
+    <string name="create_Here">Crea una aquí</string>
+    <string name="Facebook">Facebook</string>
+    <string name="TWitter">Twitter</string>
+    <string name="suscribe_Name">Nombre(s)</string>
+    <string name="suscribe_Second_Name">Apellidos</string>
+    <string name="suscribe_date">Fecha de nacimiento</string>
+    <string name="suscribe_password">Contraseña</string>
+    <string name="suscribe_repeat_password">Confirmar Contraseña</string>
+    <string name="toolbar_tittle_suscribe">Crea Cuenta</string>
+    <string name="name_Default">Luis Enrique Bustos Ramírez</string>
+    <string name="description_Default">Amante de la musica, los viajes, las artes marciales y el mejor conocedor de los bares de xochimilco</string>
+    <string name="home">Casa</string>
+    <string name="menuProfile">Perfil</string>
+    <string name="menuSetting">Configuraciones</string>
+    <string name="menuSearch">Buscar</string>
+    <string name="username_detail">Luis Enrique</string>
+    <string name="secondword_detail">Like</string>
+    <string name="tittleimage_detail">\"Chiapasionate\"</string>
+
+
+</resources>
