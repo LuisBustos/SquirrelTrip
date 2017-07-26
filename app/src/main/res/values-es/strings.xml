@@ -3,6 +3,8 @@
     <string name="app_name">SquirrelTrip</string>
 
     <!-- Strings related to login (MainActivity) -->
+
+    <string name="error_logIn">Ocurrio este error</string>
     <string name="Tittle">Squirrel Trip</string>
     <string name="separador">--------------------------------------------------------</string>
     <string name="sign_in">Iniciar Sesion</string>
@@ -45,6 +47,9 @@
     <string name="username_detail">Luis Enrique</string>
     <string name="secondword_detail">Like</string>
     <string name="tittleimage_detail">\"Chiapasionate\"</string>
+    <string name="hint_Tittle">Titulo</string>
+    <string name="hint_description">Descripción</string>
+    <string name="create_Post">Create Post</string>
 
 
 </resources>

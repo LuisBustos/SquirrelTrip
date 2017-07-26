@@ -2,6 +2,7 @@
     <string name="app_name">SquirrelTrip</string>
 
     <!-- Strings related to login (MainActivity) -->
+    <string name="error_logIn">Something happen</string>
     <string name="Tittle">Squirrel Trip</string>
     <string name="separador">--------------------------------------------------------</string>
     <string name="sign_up">Register</string>
@@ -49,5 +50,8 @@
     <string name="tittleimage_detail">\"Chiapasionate\"</string>
     <string name="text_imagedetail">No te rindas, aun estas a tiempo de alcanzar y comenzar de nuevo, aceptar tus sombras, enterrar tus miedos, liberar el lastre, retomar el vuelo.  No te rindas que la vida es eso, continuar el viaje, perseguir tus sueños, destrabar el tiempo, correr los escombros y destapar el cielo. No te rindas, por favor no cedas, aunque el frio queme, aunque el miedo muerda, aunque el sol se esconda y se calle el viento. Aún hay fuego en tu alma, aún hay vida en tus sueños, porque la vida es tuya y tuyo también el deseo, porque lo has querido y porque te quiero. Porque existe el vino y el amor, es cierto, porque no hay heridas que no cure el tiempo, abrir las puertas quitar los cerrojos, abandonar las murallas que te protegieron. Vivir la vida y aceptar el reto, recuperar la risa, ensayar el canto, bajar la guardia y extender las manos, desplegar las alas e intentar de nuevo, celebrar la vida y retomar los cielos. No te rindas por favor no cedas, aunque el frio queme, aunque el miedo muerda, aunque el sol se ponga y se calle el viento. Aún hay fuego en tu alma, aún hay vida en tus sueños, porque cada día es un comienzo, porque esta es la hora y el mejor momento, porque no estás sola, porque yo te quiero.</string>
     <string name="transitionName_Picture">transitionnamepicture</string>
+    <string name="hint_Tittle">Tittle</string>
+    <string name="hint_description">Description</string>
+    <string name="create_Post">Create Post</string>
 
 </resources>

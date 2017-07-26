@@ -1,8 +1,6 @@
 package com.example.squirrel_trip.squirreltrip.view;
 
 import android.support.annotation.NonNull;
-import android.support.design.internal.BottomNavigationItemView;
-import android.support.design.internal.BottomNavigationMenu;
 import android.support.design.widget.BottomNavigationView;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
@@ -10,7 +8,7 @@ import android.os.Bundle;
 import android.view.MenuItem;
 
 import com.example.squirrel_trip.squirreltrip.R;
-import com.example.squirrel_trip.squirreltrip.view.fragments.MenuFragment;
+import com.example.squirrel_trip.squirreltrip.post.view.MenuFragment;
 import com.example.squirrel_trip.squirreltrip.view.fragments.NearbyPlacesFragment;
 import com.example.squirrel_trip.squirreltrip.view.fragments.ProfileFragment;
 

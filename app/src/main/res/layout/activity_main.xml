@@ -9,7 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@color/BackgroundMain"
-    tools:context="com.example.squirrel_trip.squirreltrip.MainActivity">
+    tools:context="com.example.squirrel_trip.squirreltrip.login.view.MainActivity">
 
     <!-- Login progress -->
 
@@ -52,7 +52,7 @@
                 android:theme="@style/EditTextWhite"
                 >
 
-                <AutoCompleteTextView
+                <android.support.design.widget.TextInputEditText
                     android:id="@+id/email"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -68,7 +68,7 @@
                 android:theme="@style/EditTextWhite"
                 >
 
-                <EditText
+                <android.support.design.widget.TextInputEditText
                     android:id="@+id/password"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -89,7 +89,6 @@
                 android:layout_marginTop="16dp"
                 android:text="@string/sign_in"
                 android:textStyle="bold"
-                android:onClick="onClickSignIn"
                 android:theme="@style/RaisedButtonDark"
                 />
 
@@ -153,6 +152,13 @@
                 android:textStyle="bold"
                 android:onClick="onClickSignUp"
                 android:theme="@style/RaisedButtonDark" />
+
+
+            <ProgressBar
+                android:id="@+id/progressbarLogin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
 
         </LinearLayout>
     </ScrollView>
